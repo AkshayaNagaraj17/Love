@@ -27,6 +27,7 @@ h2 {
 .gif {
     width: 100%;
     max-width: 300px;
+    transition: 2s;
 }
 
 .btn-group {
